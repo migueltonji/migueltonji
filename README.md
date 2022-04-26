@@ -1,9 +1,9 @@
 ### *Hi, my name is Tonji. Nice to meet you.*
 
 - 🐱‍👤 I’m currently working on McDonald's
-- 🌹 I'm currently improving my programmer and development curriculum
-- 🕷 Pronouns: either
-- 🌀 Country: Brazil
+- 🌹  I'm currently improving my programmer and development curriculum
+- 🕷  Pronouns: either
+- 🌀  Country: Brazil
 
 
 <div align="center">

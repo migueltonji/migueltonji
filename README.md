@@ -1,6 +1,6 @@
 ### *Hi, my name is Miguel. Nice to meet you.*
 
-- 🐱‍👤 I’m currently working on McDonald's
+- 🐱‍👤 I'm currently looking for a job
 - 🌹  I'm currently improving my programmer and development curriculum
 - 🕷  Pronouns: either
 - 🌀  Country: Brazil

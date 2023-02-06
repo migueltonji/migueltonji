@@ -1,4 +1,4 @@
-### *Hi, my name is Miguel. I like to program and develop, I already worked in the technical support area.*
+### *Hi, my name is Miguel. I like to program and develop. I already worked in the technical support area, using the MySql language to refer to the database and instructing customers who used our system. In my free time, I like to photograph, write and watch movies and series. Currently studying systems analysis and development at USF.*
    *Nice to meet you.*
 
 - 🐱‍👤 I'm currently looking for a job

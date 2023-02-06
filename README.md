@@ -1,5 +1,5 @@
-### *Hi, my name is Miguel. I like to program and develop, I already worked in the technical support area. 
-   Nice to meet you.*
+### *Hi, my name is Miguel. I like to program and develop, I already worked in the technical support area.*
+   *Nice to meet you.*
 
 - 🐱‍👤 I'm currently looking for a job
 - 🌹  I'm currently improving my programmer and development curriculum

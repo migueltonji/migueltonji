@@ -1,4 +1,4 @@
-### *Hi, my name is Miguel. I like to program and develop. I already worked in the technical support area, using the MySql language to reference the database and instructing customers who used our system. In my free time I like to photograph, write and watch movies and series. Currently studying systems analysis and development at USF and working with Campinas City Hall as technical support..*
+### *Hi, my name is Miguel. I like to program and develop. I already worked in the technical support area, using the MySql language to reference the database and instructing customers who used our system. In my free time I like to photograph, write and watch movies and series. Currently studying systems analysis and development at USF and working with Campinas City Hall as technical support.*
    *Nice to meet you.*
 
 - 🐱‍👤 I currently work as a technical support

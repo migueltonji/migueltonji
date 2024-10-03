@@ -35,4 +35,3 @@
   </div>
   
   
-  ![Snake animation](https://github.com/tonjii/tonjii/blob/output/github-contribution-grid-snake.svg)

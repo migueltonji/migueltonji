@@ -1,9 +1,9 @@
 ### *Hi, my name is Guilherme Miguel. I'm looking for a Front-End job. I'm constantly honing the skills the market demands for my professional career.*
    *Nice to meet you.*
 
-- 🐱‍👤 I currently work as a technical support
-- 🌹  I'm currently improving my programmer and development curriculum
-- 🌀  Country: Brazil
+-  🐱‍👤  I currently work as a technical support
+-  🌹   I'm currently improving my programmer and development curriculum
+-  🌀   Country: Brazil
 
 
 <div align="center">

@@ -1,14 +1,13 @@
-### *Hi, my name is Miguel. I like to program and develop. I already worked in the technical support area, using the MySql language to reference the database and instructing customers who used our system. In my free time I like to photograph, write and watch movies and series. Currently studying systems analysis and development at USF and working with Campinas City Hall as technical support.*
+### *Hi, my name is Guilherme Miguel. I'm looking for a Front-End job. I'm constantly honing the skills the market demands for my professional career.*
    *Nice to meet you.*
 
 - 🐱‍👤 I currently work as a technical support
 - 🌹  I'm currently improving my programmer and development curriculum
-- 🕷  Pronouns: either
 - 🌀  Country: Brazil
 
 
 <div align="center">
-  <a href="https://github.com/tonjii">
+  <a href="https://github.com/migueltonji">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonjii&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonjii&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
@@ -29,7 +28,6 @@
   <div>
  
   <a href="https://instagram.com/migueltonji" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/911084850327457874" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilherme7carmo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/migueltonji/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>

@@ -1,4 +1,4 @@
-### *Hi, my name is Guilherme Miguel. I'm looking for a Front-End job. I'm constantly honing the skills the market demands for my professional career.*
+ ### *Hi, my name is Guilherme Miguel. I'm looking for a Front-End job. I'm constantly honing the skills the market demands for my professional career.*
    *Nice to meet you.*
 
 -  🐱‍👤  I currently work as a technical support
@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/migueltonji">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonjii&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonjii&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueltonji&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueltonji&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   # 💻 Tech Stack:

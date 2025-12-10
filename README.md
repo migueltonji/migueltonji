@@ -8,14 +8,13 @@
 
 <div align="center">
   <a href="https://github.com/migueltonji">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueltonji&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueltonji&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="200em" src="https://stats-migueltonji.vercel.app/api?username=migueltonji&show_icons=true&theme=transparent&include_all_commits=true"/>
+    <img height="200em" src="https://stats-migueltonji.vercel.app/api/top-langs/?username=migueltonji&layout=compact&langs_count=7&theme=transparent"/>
 </div>
-  
+   
   # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-%2300a.svg?style=for-the-badge&logo=HTML5&logoColor=ebebeb) 

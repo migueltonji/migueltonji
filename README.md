@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/migueltonji">
-    <img height="200em" src="https://stats-migueltonji.vercel.app/api?username=migueltonji&show_icons=true&theme=transparent&include_all_commits=true"/>
-    <img height="200em" src="https://stats-migueltonji.vercel.app/api/top-langs/?username=migueltonji&layout=compact&langs_count=7&theme=transparent"/>
+    <img height="180em" src="https://stats-migueltonji.vercel.app/api?username=migueltonji&show_icons=true&theme=transparent&include_all_commits=true"/>
+    <img height="180em" src="https://stats-migueltonji.vercel.app/api/top-langs/?username=migueltonji&layout=compact&langs_count=7&theme=transparent"/>
 </div>
    
   # 💻 Tech Stack:

@@ -1,4 +1,4 @@
-### Olá! Sou Guilherme Miguel. 👋
+### Hi! My name is Guilherme Miguel. 👋
 
 I'm actively seeking a **Front-End job** and I'm constantly honing the skills the market demands for my professional career. Nice to meet you!
 

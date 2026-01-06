@@ -12,10 +12,11 @@ I'm actively seeking a **Front-End job** and I'm constantly honing the skills th
 
 <div align="center">
   <a href="https://github.com/migueltonji">
-    <img height="180em" src="https://stats-migueltonji.vercel.app/api?username=migueltonji&show_icons=true&theme=transparent&include_all_commits=true"/>
-    <img height="180em" src="https://stats-migueltonji.vercel.app/api/top-langs/?username=migueltonji&layout=compact&langs_count=7&theme=transparent"/>
+    <img height="180em" src="https://stats-migueltonji.vercel.app/api?username=migueltonji&show_icons=true&theme=transparent&include_all_commits=true&cache_seconds=3600"/>
+    <img height="180em" src="https://stats-migueltonji.vercel.app/api/top-langs/?username=migueltonji&layout=compact&langs_count=7&theme=transparent&cache_seconds=3600"/>
   </a>
 </div>
+
 
 ---
   

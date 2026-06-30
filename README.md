@@ -4,16 +4,16 @@ I'm actively seeking a **Front-End job** and I'm constantly honing the skills th
 
 ---
 
-* 🐱‍👤 I currently work as a technical support
-* 🌹 I'm currently improving my programmer and development curriculum
-* 🌀 Country: Brazil
+* I currently work as a technical support
+* I'm currently improving my programmer and development curriculum
+* Country: Brazil
 
 ---
 
 <div align="center">
   <a href="https://github.com/migueltonji">
-    <img height="180em" src="https://stats-migueltonji.vercel.app/api?username=migueltonji&show_icons=true&theme=transparent&include_all_commits=true&cache_seconds=1200"/>
-    <img height="180em" src="https://stats-migueltonji.vercel.app/api/top-langs/?username=migueltonji&layout=compact&langs_count=7&theme=transparent&cache_seconds=1200"/>
+    <img height="190em" src="https://stats-migueltonji.vercel.app/api?username=migueltonji&show_icons=true&theme=transparent&include_all_commits=true&cache_seconds=1200"/>
+    <img height="190em" src="https://stats-migueltonji.vercel.app/api/top-langs/?username=migueltonji&layout=compact&langs_count=7&theme=transparent&cache_seconds=1200"/>
   </a>
 </div>
 

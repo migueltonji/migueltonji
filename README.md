@@ -12,8 +12,8 @@ I'm actively seeking a **Front-End job** and I'm constantly honing the skills th
 
 <div align="center">
   <a href="https://github.com/migueltonji">
-    <img height="190em" src="https://stats-migueltonji.vercel.app/api?username=migueltonji&show_icons=true&theme=transparent&include_all_commits=true&cache_seconds=1400"/>
-    <img height="190em" src="https://stats-migueltonji.vercel.app/api/top-langs/?username=migueltonji&layout=compact&langs_count=7&theme=transparent&cache_seconds=1400"/>
+    <img height="191em" src="https://stats-migueltonji.vercel.app/api/top-langs/?username=migueltonji&layout=compact&langs_count=7&theme=transparent&cache_seconds=1800&v=2"/>
+    <img height="190em" src="https://stats-migueltonji.vercel.app/api?username=migueltonji&show_icons=true&theme=transparent&include_all_commits=true&cache_seconds=1800&v=2"/>
   </a>
 </div>
 
